@@ -3,7 +3,7 @@
 
 ## Introduction
 
- Welcome to my repository I have made a lovely website, you can visit it here: https://lottevdakk3r.github.io/Challenge-1/ 
+ Welcome to my repository I have made a lovely website, you can visit it [here](https://lottevdakk3r.github.io/Challenge-1/) 
 
 ### Thanks
 
